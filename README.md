@@ -80,6 +80,5 @@ We welcome contributions from developers, educators, researchers, and climate in
 
 ## Contact
 
-Email: ilham.boudarba@ramaqs.ma
 
 GitHub: https://github.com/ilhamtune/Climate-STEM-Guardians
