@@ -45,3 +45,41 @@ Coming soon.
 ## License
 
 This project is released under the MIT License.
+
+
+## System Architecture
+
+![Climate STEM Guardians Architecture](images/system-overview.png)
+
+## Project Structure
+
+```
+Climate-STEM-Guardians/
+│── README.md
+│── LICENSE
+│── INSTALL.md
+│
+├── docs/
+├── hardware/
+├── firmware/
+├── platform/
+└── images/
+```
+
+## Roadmap
+
+- ✅ Prototype completed
+- 🔄 School pilot deployment
+- 🔄 AI learning analytics
+- 🔄 Mobile application
+- 🔄 Open-source community contributions
+
+## Contributing
+
+We welcome contributions from developers, educators, researchers, and climate innovators. Please submit issues or pull requests to help improve Climate STEM Guardians.
+
+## Contact
+
+Email: ilham.boudarba@ramaqs.ma
+
+GitHub: https://github.com/ilhamtune/Climate-STEM-Guardians
