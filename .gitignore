@@ -1,0 +1,15 @@
+*.log
+*.tmp
+*.bin
+*.exe
+
+.vscode/
+.idea/
+
+build/
+dist/
+
+node_modules/
+
+*.pyc
+__pycache__/
